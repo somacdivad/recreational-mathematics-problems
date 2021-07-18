@@ -64,7 +64,6 @@ def get_trips_starting_from(state, borders=BORDERS):
     return trips
 
 
-<<<<<<< HEAD
 def get_route_string(route):
     states_in_route = [
         STATES[label]
