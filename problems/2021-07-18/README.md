@@ -1,4 +1,4 @@
-# Border Crossings #1
+# Knights of the Round Table
 
 This week's puzzle is about King Arthur and the Knights of the Round Table.
 
