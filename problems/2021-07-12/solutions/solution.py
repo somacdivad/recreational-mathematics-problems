@@ -64,6 +64,7 @@ def get_trips_starting_from(state, borders=BORDERS):
     return trips
 
 
+<<<<<<< HEAD
 def get_route_string(route):
     states_in_route = [
         STATES[label]
@@ -83,6 +84,7 @@ def get_route_string(route):
 trips = get_trips_starting_from("A")
 solutions = [trip for trip in trips if len(trip) == 25]
 print(f"There are {len(solutions)} possible routes.")
+
 
 # If there are any solutions, print a random one using the state names.
 if len(solutions) != 0:
