@@ -11,6 +11,8 @@ Can you find a route that passes through all eight states in such a way that you
 - The South Dakota (SD) — Wyoming (WY) border once
 - And so on
 
+_This problem is Problem 6.1 in Problem Solving Through Recreational Mathematics by Bonnie Averbach and Orin Chein._
+
 Feel free to use your favorite programming language to solve the problem. Bonus points if you can find *all* possible routes!
 
 You can submit solutions via pull request or by emailing your code to recmath@davidamos.dev. If you submit a pull request, make sure your solution is added to the `solutions/` folder.
