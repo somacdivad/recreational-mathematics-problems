@@ -6,6 +6,7 @@ July 18, 2021
 """
 
 import random
+random.seed(444)
 
 STATES = {
     "A": "Nebraska",
