@@ -8,7 +8,7 @@ How many ways are there to fill in the blanks for
 
 with the digits 4, 9, and 8, in some order, so that the resulting number is divisible by 792?
 
-_This problem is Problem 4.33 in Problem Solving Through Recreational Mathematics by Bonnie Averbach and Orin Chein._
+_This problem is Problem 4.35 in Problem Solving Through Recreational Mathematics by Bonnie Averbach and Orin Chein._
 
 Feel free to use your favorite programming language to solve the problem.
 
