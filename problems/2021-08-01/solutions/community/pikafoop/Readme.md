@@ -1,5 +1,7 @@
 [https://youtu.be/AFSWukfYyZs](https://youtu.be/AFSWukfYyZs) || [GitHub](https://github.com/somacdivad/recreational-mathematics-problems/tree/main/problems/2021-08-01) || [Twitter](https://twitter.com/somacdivad/status/1422965666110492673)
 
+pikafoop's solution to...
+
 # Blank Divisibility
 
 This week's puzzle is about filling in blanks in a number so that it's divisible by another number.
